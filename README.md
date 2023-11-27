@@ -1,6 +1,6 @@
 # Devstore API
 
-Esse projeto fornece uma API de produtos usada no app devstore construído Ignite da Rocketseat.
+Esse projeto fornece uma API de produtos usada no app devstore construído Ignite da Rocketseat
 
 Realize o deploy da API em sua conta da Vercel através do botão abaixo:
 
